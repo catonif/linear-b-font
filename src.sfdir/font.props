@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1484254337
-ModificationTime: 1789487279
+ModificationTime: 1789496651
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,6 +54,7 @@ OS2StrikeYSize: 50
 OS2StrikeYPos: 322
 OS2CapHeight: 800
 OS2XHeight: 536
+OS2Vendor: 'PfEd'
 OS2CodePages: 00000093.00000000
 OS2UnicodeRanges: 00000003.02000000.00000000.00000020
 Lookup: 4 0 1 "'rlig' Ligature richiesta in Lineare B lookup 0" { "'rlig' Ligature richiesta in Lineare B lookup 0-1"  } ['rlig' ('DFLT' <'dflt' > 'linb' <'dflt' > ) ]

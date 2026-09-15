@@ -4,14 +4,19 @@ This is a fork of [Noto Sans Linear B](https://github.com/notofonts/linear-b), r
 
 ## Differences from Noto
 
-### Adjuncts
+### Composed characters
 
-I encoded the adjuncts using `rlig`, even though I assume some other rule should be used. Temporarily, the joiner character is the the plus sign `+`, following the scheme used at the English Wiktionary, so that it remains visibly contrastive even with other fonts. An upcoming Unicode proposal will hopefully clarify whether the zero-width joiner should be used or new control characters should be created. The adjuncts currentl supported are the following:
+I encoded the composed characters using `rlig`, even though I assume some other rule should be used. Temporarily, the joiner character is the the plus sign `+`, following the scheme used at the English Wiktionary, so that it remains visibly contrastive even with other fonts. An upcoming Unicode proposal will hopefully clarify whether the zero-width joiner should be used or new control characters should be created. The characters currently supported are the following:
 
 * OVIS `U+10025` + *TA* `U+10032`
 * SUS `U+10042` + *KA* `U+1000F`
 * SUS `U+10042` + *SI* `U+1002F`
 * BOS `U+10018` + *SI* `U+1002F`
+* \*211<sup>VAS</sup> `U+100EA` + *PO* `U+10021`
+
+### Clarification about \*211<sup>VAS</sup>
+
+The ideogram \*211<sup>VAS</sup> is represented in the Unicode chart ([see PDF](https://www.unicode.org/charts/PDF/U10000.pdf)), and hence in the Noto Sans Linear B and Aegean fonts, already as the compound sign \*211<sup>VAS</sup> + *PO*, since the ideogram itself is only ever found in that combination, in two tablets from Knossos. However I believe that this should be encoded as any other compound, i.e. \*211<sup>VAS</sup> `U+100EA` + *PO* `U+10021`, so I reused the glyph for the compound term and stripped the syllable away from the bare \*211<sup>VAS</sup> codepoint.
 
 ### Normalise margins of numbers
 
@@ -30,7 +35,7 @@ In the tablets spacing is very evident, but in the font it is barely visible. I 
 
 ### Square brackets
 
-I increased the height of the square brackets, so that they are 86px above the signs just like they were already 86px below the sign. I also added glyphs for the double square brackets ⟦ `U+27E6` and ⟧ `U+27E7`, by meshing two single square brackets together. I also set up the same `rlig` table as above so that a *[[ ]]* sequence would turn into *⟦ ⟧*.
+I increased the height of the square brackets, so that they are 86px above the signs just like they were already 86px below the sign. I also added glyphs for the double square brackets ⟦ `U+27E6` and ⟧ `U+27E7`, by joining two single square brackets together. I also set up the same `rlig` table as above so that a *[[ ]]* sequence would turn into *⟦ ⟧*.
 
 ### Dot below
 
