@@ -1,0 +1,76 @@
+StartChar: commaaccentrotate
+Encoding: 605 -1 604
+Width: 500
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_7
+ 6
+ 0
+ 2
+ 0
+ 1
+ 1
+ 76
+MPPEM
+PUSHB_1
+ 27
+LT
+IF
+NPUSHB
+ 11
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 1
+ 16
+ 0
+ 78
+ELSE
+NPUSHB
+ 16
+ 0
+ 1
+ 0
+ 0
+ 1
+ 87
+ 0
+ 1
+ 1
+ 0
+ 95
+ 0
+ 0
+ 1
+ 0
+ 79
+EIF
+PUSHB_5
+ 21
+ 20
+ 2
+ 7
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+314 754 m 1,0,1
+ 306 737 306 737 297.5 710.5 c 128,-1,2
+ 289 684 289 684 282 656 c 128,-1,3
+ 275 628 275 628 272 606 c 1,4,-1
+ 185 606 l 1,5,-1
+ 185 615 l 1,6,7
+ 190 633 190 633 202 660 c 128,-1,8
+ 214 687 214 687 230.5 715.5 c 128,-1,9
+ 247 744 247 744 265 766 c 1,10,-1
+ 314 766 l 1,11,-1
+ 314 754 l 1,0,1
+EndSplineSet
+EndChar

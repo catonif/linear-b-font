@@ -1,0 +1,12 @@
+StartChar: ij
+Encoding: 220 307 478
+Width: 516
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Ancora-1" 280 -240 basechar 0
+AnchorPoint: "Ancora-0" 387 737 basechar 0
+LayerCount: 2
+Fore
+Refer: 472 105 N 1 0 0 1 0 0 2
+Refer: 481 106 N 1 0 0 1 258 0 2
+EndChar

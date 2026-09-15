@@ -1,0 +1,176 @@
+StartChar: ampersand
+Encoding: 8 38 566
+Width: 732
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 15
+ 38
+ 26
+ 6
+ 3
+ 1
+ 4
+ 53
+ 17
+ 14
+ 7
+ 4
+ 5
+ 1
+ 2
+ 76
+MPPEM
+PUSHB_1
+ 25
+LT
+IF
+NPUSHB
+ 35
+ 7
+ 1
+ 4
+ 4
+ 0
+ 97
+ 6
+ 1
+ 0
+ 0
+ 20
+ 77
+ 0
+ 1
+ 1
+ 2
+ 97
+ 3
+ 1
+ 2
+ 2
+ 15
+ 77
+ 0
+ 5
+ 5
+ 2
+ 97
+ 3
+ 1
+ 2
+ 2
+ 15
+ 2
+ 78
+ELSE
+NPUSHB
+ 33
+ 7
+ 1
+ 4
+ 4
+ 0
+ 97
+ 6
+ 1
+ 0
+ 0
+ 20
+ 77
+ 0
+ 1
+ 1
+ 2
+ 95
+ 0
+ 2
+ 2
+ 15
+ 77
+ 0
+ 5
+ 5
+ 3
+ 97
+ 0
+ 3
+ 3
+ 21
+ 3
+ 78
+EIF
+NPUSHB
+ 23
+ 33
+ 32
+ 1
+ 0
+ 51
+ 49
+ 32
+ 43
+ 33
+ 43
+ 21
+ 19
+ 16
+ 15
+ 11
+ 10
+ 0
+ 31
+ 1
+ 31
+ 8
+ 7
+ 22
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+304 725 m 0,0,1
+ 384 725 384 725 430.5 684.5 c 128,-1,2
+ 477 644 477 644 477 571 c 0,3,4
+ 477 508 477 508 436.5 464 c 128,-1,5
+ 396 420 396 420 334 384 c 1,6,-1
+ 527 198 l 1,7,8
+ 553 229 553 229 569.5 269.5 c 128,-1,9
+ 586 310 586 310 597 357 c 1,10,-1
+ 686 357 l 1,11,12
+ 670 293 670 293 646 238 c 128,-1,13
+ 622 183 622 183 584 142 c 1,14,-1
+ 730 0 l 1,15,-1
+ 611 0 l 1,16,-1
+ 524 84 l 1,17,18
+ 477 42 477 42 419 16 c 128,-1,19
+ 361 -10 361 -10 278 -10 c 0,20,21
+ 175 -10 175 -10 114 41 c 128,-1,22
+ 53 92 53 92 53 186 c 0,23,24
+ 53 263 53 263 94.5 309.5 c 128,-1,25
+ 136 356 136 356 207 396 c 1,26,27
+ 175 432 175 432 147.5 473 c 128,-1,28
+ 120 514 120 514 120 569 c 0,29,30
+ 120 643 120 643 169.5 684 c 128,-1,31
+ 219 725 219 725 304 725 c 0,0,1
+301 653 m 0,32,33
+ 259 653 259 653 232.5 631 c 128,-1,34
+ 206 609 206 609 206 570 c 0,35,36
+ 206 534 206 534 225 503.5 c 128,-1,37
+ 244 473 244 473 280 436 c 1,38,39
+ 339 470 339 470 364.5 500.5 c 128,-1,40
+ 390 531 390 531 390 571 c 0,41,42
+ 390 607 390 607 366 630 c 128,-1,43
+ 342 653 342 653 301 653 c 0,32,33
+260 341 m 1,44,45
+ 206 309 206 309 175.5 276 c 128,-1,46
+ 145 243 145 243 145 189 c 0,47,48
+ 145 134 145 134 182 101 c 128,-1,49
+ 219 68 219 68 281 68 c 0,50,51
+ 345 68 345 68 391 89 c 128,-1,52
+ 437 110 437 110 468 139 c 1,53,-1
+ 260 341 l 1,44,45
+EndSplineSet
+Kerns2: 429 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 428 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 427 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 426 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 425 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 423 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 422 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 421 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 420 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 419 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 418 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 407 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 406 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 405 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+EndChar

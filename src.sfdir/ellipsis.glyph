@@ -1,0 +1,11 @@
+StartChar: ellipsis
+Encoding: 329 8230 285
+Width: 791
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 283 46 N 1 0 0 1 0 0 2
+Refer: 283 46 N 1 0 0 1 262 0 2
+Refer: 283 46 N 1 0 0 1 523 0 2
+EndChar

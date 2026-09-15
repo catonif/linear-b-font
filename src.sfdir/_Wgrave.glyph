@@ -1,0 +1,23 @@
+StartChar: Wgrave
+Encoding: 311 7808 423
+Width: 930
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHB_1
+ 178
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+AnchorPoint: "Ancora-1" 458 0 basechar 0
+AnchorPoint: "Ancora-0" 465 944 basechar 0
+LayerCount: 2
+Fore
+Refer: 419 87 N 1 0 0 1 0 0 3
+Refer: 591 96 N 1 0 0 1 295 178 2
+Kerns2: 554 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+EndChar

@@ -1,0 +1,37 @@
+StartChar: guillemotright
+Encoding: 115 187 303
+Width: 509
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_6
+ 12
+ 8
+ 5
+ 1
+ 2
+ 50
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+469 257 m 1,0,-1
+ 299 56 l 1,1,-1
+ 237 93 l 1,2,-1
+ 377 264 l 1,3,-1
+ 237 435 l 1,4,-1
+ 299 471 l 1,5,-1
+ 469 270 l 1,6,-1
+ 469 257 l 1,0,-1
+270 257 m 1,7,-1
+ 101 56 l 1,8,-1
+ 39 93 l 1,9,-1
+ 179 264 l 1,10,-1
+ 39 435 l 1,11,-1
+ 101 471 l 1,12,-1
+ 270 270 l 1,13,-1
+ 270 257 l 1,7,-1
+EndSplineSet
+Kerns2: 424 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+EndChar

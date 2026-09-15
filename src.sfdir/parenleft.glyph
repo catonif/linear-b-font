@@ -1,0 +1,43 @@
+StartChar: parenleft
+Encoding: 10 40 292
+Width: 300
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 0
+ 1
+ 0
+ 1
+ 134
+ 0
+ 0
+ 0
+ 14
+ 0
+ 78
+ 22
+ 19
+ 2
+ 7
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+40 274 m 0,0,1
+ 40 396 40 396 75.5 509.5 c 128,-1,2
+ 111 623 111 623 187 714 c 1,3,-1
+ 270 714 l 1,4,5
+ 200 620 200 620 164.5 507 c 128,-1,6
+ 129 394 129 394 129 275 c 0,7,8
+ 129 159 129 159 164.5 47.5 c 128,-1,9
+ 200 -64 200 -64 269 -158 c 1,10,-1
+ 187 -158 l 1,11,12
+ 111 -70 111 -70 75.5 41.5 c 128,-1,13
+ 40 153 40 153 40 274 c 0,0,1
+EndSplineSet
+Kerns2: 481 40 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 367 90 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+EndChar

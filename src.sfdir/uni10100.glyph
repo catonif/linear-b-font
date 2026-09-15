@@ -1,0 +1,42 @@
+StartChar: uni10100
+Encoding: 546 65792 216
+Width: 370
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 0
+ 0
+ 1
+ 1
+ 0
+ 87
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 0
+ 1
+ 79
+ 17
+ 16
+ 2
+ 6
+ 24
+CALL
+EndTTInstrs
+AnchorPoint: "bottom" 185 -100 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+150 224 m 1,0,-1
+ 220 224 l 1,1,-1
+ 220 -10 l 1,2,-1
+ 150 -10 l 1,3,-1
+ 150 224 l 1,0,-1
+EndSplineSet
+EndChar

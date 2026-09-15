@@ -1,0 +1,53 @@
+StartChar: Y
+Encoding: 59 89 425
+Width: 566
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 25
+ 6
+ 3
+ 2
+ 1
+ 0
+ 1
+ 76
+ 2
+ 1
+ 0
+ 0
+ 14
+ 77
+ 0
+ 1
+ 1
+ 15
+ 1
+ 78
+ 18
+ 18
+ 17
+ 3
+ 7
+ 25
+CALL
+EndTTInstrs
+AnchorPoint: "Ancora-1" 283 0 basechar 0
+AnchorPoint: "Ancora-0" 283 714 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+283 363 m 1,0,-1
+ 469 714 l 1,1,-1
+ 566 714 l 1,2,-1
+ 328 277 l 1,3,-1
+ 328 0 l 1,4,-1
+ 238 0 l 1,5,-1
+ 238 273 l 1,6,-1
+ 0 714 l 1,7,-1
+ 98 714 l 1,8,-1
+ 283 363 l 1,0,-1
+EndSplineSet
+Kerns2: 566 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 554 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+EndChar

@@ -1,0 +1,19 @@
+StartChar: quotesinglbase
+Encoding: 324 8218 561
+Width: 250
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHW_1
+ -598
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 301 8217 N 1 0 0 1 19 -598 2
+EndChar

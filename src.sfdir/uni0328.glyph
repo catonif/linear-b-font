@@ -1,0 +1,12 @@
+StartChar: uni0328
+Encoding: 310 808 589
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "Ancora-2" 0 -220 basemark 0
+AnchorPoint: "Ancora-2" 1 0 mark 0
+AnchorPoint: "Ancora-1" 1 0 mark 0
+LayerCount: 2
+Fore
+Refer: 601 731 N 1 0 0 1 -122 0 2
+EndChar

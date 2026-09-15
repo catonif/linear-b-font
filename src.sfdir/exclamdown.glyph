@@ -1,0 +1,55 @@
+StartChar: exclamdown
+Encoding: 98 161 553
+Width: 269
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 25
+ 0
+ 2
+ 0
+ 3
+ 2
+ 3
+ 99
+ 0
+ 0
+ 0
+ 1
+ 97
+ 0
+ 1
+ 1
+ 23
+ 0
+ 78
+ 17
+ 18
+ 36
+ 34
+ 4
+ 7
+ 26
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+196 478 m 0,0,1
+ 196 441 196 441 178 426 c 128,-1,2
+ 160 411 160 411 134 411 c 0,3,4
+ 109 411 109 411 90.5 426 c 128,-1,5
+ 72 441 72 441 72 478 c 0,6,7
+ 72 514 72 514 90.5 530 c 128,-1,8
+ 109 546 109 546 134 546 c 0,9,10
+ 160 546 160 546 178 530 c 128,-1,11
+ 196 514 196 514 196 478 c 0,0,1
+104 330 m 1,12,-1
+ 162 330 l 1,13,-1
+ 187 -182 l 1,14,-1
+ 79 -182 l 1,15,-1
+ 104 330 l 1,12,-1
+EndSplineSet
+Kerns2: 429 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 428 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 427 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 426 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 425 -30 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 423 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 422 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 421 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 420 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 419 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 418 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 407 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 406 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 405 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 367 50 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+EndChar

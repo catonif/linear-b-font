@@ -1,0 +1,76 @@
+StartChar: caroncommaaccent
+Encoding: 604 -1 603
+Width: 500
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_7
+ 6
+ 0
+ 2
+ 0
+ 1
+ 1
+ 76
+MPPEM
+PUSHB_1
+ 41
+LT
+IF
+NPUSHB
+ 11
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 1
+ 16
+ 0
+ 78
+ELSE
+NPUSHB
+ 16
+ 0
+ 1
+ 0
+ 0
+ 1
+ 87
+ 0
+ 1
+ 1
+ 0
+ 95
+ 0
+ 0
+ 1
+ 0
+ 79
+EIF
+PUSHB_5
+ 21
+ 20
+ 2
+ 7
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+310 751 m 1,0,1
+ 306 733 306 733 294.5 706 c 128,-1,2
+ 283 679 283 679 268 650.5 c 128,-1,3
+ 253 622 253 622 238 600 c 1,4,-1
+ 190 600 l 1,5,-1
+ 190 612 l 1,6,7
+ 197 631 197 631 203.5 657.5 c 128,-1,8
+ 210 684 210 684 215.5 711.5 c 128,-1,9
+ 221 739 221 739 223 760 c 1,10,-1
+ 310 760 l 1,11,-1
+ 310 751 l 1,0,1
+EndSplineSet
+EndChar
