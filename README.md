@@ -12,6 +12,7 @@ I encoded the composed characters using `rlig`, even though I assume some other 
 * SUS (\*108) `U+10042` + *SI* (\*41) `U+1002F`
 * SUS (\*108) `U+10042` + *KA* (\*77) `U+1000F`
 * BOS (\*109) `U+10018` + *SI* (\*41) `U+1002F`
+* GRA (\*120) `U+1008E` + *PE* (\*72) `U+1001F`
 * OLIV (\*122) `U+10090` + *A* (\*8) `U+10000`
 * OLE (\*130) `U+10095` + *A* (\*8) `U+10000`
 * \*209<sup>VAS</sup> `U+100E8` + *A* (\*8) + `U+10000`
