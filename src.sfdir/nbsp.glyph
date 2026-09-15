@@ -1,4 +1,4 @@
-StartChar: uni00A0
+StartChar: nbsp
 Encoding: 97 160 4
 Width: 260
 GlyphClass: 1
