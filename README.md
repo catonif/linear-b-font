@@ -8,15 +8,16 @@ This is a fork of [Noto Sans Linear B](https://github.com/notofonts/linear-b), r
 
 I encoded the composed characters using `rlig`, even though I assume some other rule should be used. Temporarily, the joiner character is the the plus sign `+`, following the scheme used at the English Wiktionary, so that it remains visibly contrastive even with other fonts. An upcoming Unicode proposal will hopefully clarify whether the zero-width joiner should be used or new control characters should be created. The characters currently supported are the following:
 
-* OVIS `U+10025` + *TA* `U+10032`
-* SUS `U+10042` + *KA* `U+1000F`
-* SUS `U+10042` + *SI* `U+1002F`
-* BOS `U+10018` + *SI* `U+1002F`
-* \*211<sup>VAS</sup> `U+100EA` + *PO* `U+10021`
+* OVIS (\*106) `U+10025` + *TA* (\*59) `U+10032`
+* SUS (\*108) `U+10042` + *SI* (\*41) `U+1002F`
+* SUS (\*108) `U+10042` + *KA* (\*77) `U+1000F`
+* BOS (\*109) `U+10018` + *SI* (\*41) `U+1002F`
+* OLIV (\*122) `U+10090` + *A* (\*8) `U+10000`
+* \*211<sup>VAS</sup> `U+100EA` + *PO* (\*11) `U+10021`
 
 ### Clarification about \*211<sup>VAS</sup>
 
-The ideogram \*211<sup>VAS</sup> is represented in the Unicode chart ([see PDF](https://www.unicode.org/charts/PDF/U10000.pdf)), and hence in the Noto Sans Linear B and Aegean fonts, already as the compound sign \*211<sup>VAS</sup> + *PO*, since the ideogram itself is only ever found in that combination, in two tablets from Knossos. However I believe that this should be encoded as any other compound, i.e. \*211<sup>VAS</sup> `U+100EA` + *PO* `U+10021`, so I reused the glyph for the compound term and stripped the syllable away from the bare \*211<sup>VAS</sup> codepoint.
+The ideogram \*211<sup>VAS</sup> is only ever attested in two Knossos tablets in the compound \*211<sup>VAS</sup> + *PO*. As such, the codepoint for the ideogram, `U+100EA`, was represented in the Unicode charts ([see PDF](https://www.unicode.org/charts/PDF/U10000.pdf)), and later in the fonts Aegean and Noto Sans Linear B, already with a precomposed *PO*. However I believe that the composed sign should be encoded as any other, i.e. as \*211<sup>VAS</sup> `U+100EA` + *PO* `U+10021`, so I reused the glyph for the compound term and stripped the syllable away from the bare ideogram codepoint.
 
 ### Normalise margins of numbers
 

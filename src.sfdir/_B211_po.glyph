@@ -105,5 +105,6 @@ SplineSet
  120 549 120 549 154.5 531 c 128,-1,117
  189 513 189 513 244 511 c 1,107,108
 EndSplineSet
+LCarets2: 2 0 0
 Ligature2: "'rlig' Ligature richiesta in Lineare B lookup 0-1" B211 plus po
 EndChar
