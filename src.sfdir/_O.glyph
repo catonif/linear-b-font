@@ -1,5 +1,5 @@
 StartChar: O
-Encoding: 49 79 382
+Encoding: 49 79 329
 Width: 781
 GlyphClass: 2
 Flags: W
@@ -64,6 +64,6 @@ SplineSet
  271 646 271 646 213.5 569.5 c 128,-1,27
  156 493 156 493 156 358 c 256,16,17
 EndSplineSet
-Kerns2: 424 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+Kerns2: 338 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
 Substitution2: "Sostituzione singola lookup 7 subtable" ordmasculine
 EndChar

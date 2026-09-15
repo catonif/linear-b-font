@@ -39,5 +39,5 @@ SplineSet
  111 -70 111 -70 75.5 41.5 c 128,-1,13
  40 153 40 153 40 274 c 0,0,1
 EndSplineSet
-Kerns2: 481 40 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 367 90 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+Kerns2: 350 40 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 324 90 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
 EndChar

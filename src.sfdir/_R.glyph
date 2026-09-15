@@ -1,5 +1,5 @@
 StartChar: R
-Encoding: 52 82 395
+Encoding: 52 82 332
 Width: 622
 GlyphClass: 2
 Flags: W
@@ -92,5 +92,5 @@ SplineSet
  461 577 461 577 419 606.5 c 128,-1,23
  377 636 377 636 289 636 c 2,15,-1
 EndSplineSet
-Kerns2: 563 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 302 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+Kerns2: 377 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 302 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
 EndChar

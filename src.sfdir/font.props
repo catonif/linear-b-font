@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1484254337
-ModificationTime: 1789504855
+ModificationTime: 1789505479
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3936,7 +3936,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 114 38 14
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "bottom" "'mark' Posizione della marca in Lineare B lookup 4-1" "Ancora-0" "'mark' Posizione della marca in Latino lookup 1 subtable" "Ancora-1" "'mark' Posizione della marca in Latino lookup 1 subtable" "Ancora-2" "'mkmk' Marca verso marca in Latino lookup 2 subtable" "Ancora-3" "'mkmk' Marca verso marca in Latino lookup 3 subtable"

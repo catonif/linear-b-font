@@ -1,5 +1,5 @@
 StartChar: F
-Encoding: 40 70 351
+Encoding: 40 70 320
 Width: 519
 GlyphClass: 2
 Flags: W
@@ -57,5 +57,5 @@ SplineSet
  187 303 l 1,9,-1
  187 0 l 1,0,-1
 EndSplineSet
-Kerns2: 562 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 561 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 554 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 551 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 330 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 329 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 328 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 327 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 326 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 325 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 324 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 322 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 321 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 320 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 297 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 295 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 293 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 285 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 283 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+Kerns2: 376 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 375 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 369 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 367 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 315 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 297 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 295 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 293 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 285 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 283 -60 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
 EndChar

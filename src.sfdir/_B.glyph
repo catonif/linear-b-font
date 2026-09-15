@@ -1,5 +1,5 @@
 StartChar: B
-Encoding: 36 66 332
+Encoding: 36 66 316
 Width: 650
 GlyphClass: 2
 Flags: W
@@ -109,5 +109,5 @@ SplineSet
  423 335 423 335 324 335 c 2,34,-1
  187 335 l 1,26,-1
 EndSplineSet
-Kerns2: 562 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 561 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 551 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 285 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 283 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+Kerns2: 376 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 375 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 367 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 285 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0" 283 -10 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
 EndChar

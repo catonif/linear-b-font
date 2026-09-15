@@ -1,5 +1,5 @@
 StartChar: guilsinglright
-Encoding: 331 8250 564
+Encoding: 331 8250 378
 Width: 310
 GlyphClass: 1
 Flags: W
@@ -23,5 +23,5 @@ SplineSet
  39 435 l 1,6,-1
  101 471 l 1,0,-1
 EndSplineSet
-Kerns2: 424 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
+Kerns2: 338 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
 EndChar
