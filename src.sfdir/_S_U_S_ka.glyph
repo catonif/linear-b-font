@@ -91,5 +91,5 @@ SplineSet
  277 130 l 1,98,-1
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'rlig' Ligature richiesta in Lineare B lookup 0-1" au plus ka
+Ligature2: "ccmp-linb-compound-1" au plus ka
 EndChar

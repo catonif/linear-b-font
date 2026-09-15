@@ -58,5 +58,5 @@ SplineSet
  212 747.999511719 212 747.999511719 196 748 c 0,44,45
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'rlig' Ligature richiesta in Lineare B lookup 0-1" mu plus si
+Ligature2: "ccmp-linb-compound-1" mu plus si
 EndChar

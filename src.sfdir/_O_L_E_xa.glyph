@@ -69,5 +69,5 @@ SplineSet
  663 593.999511719 663 593.999511719 645.5 607 c 128,-1,73
  627.999511719 620.000488281 627.999511719 620.000488281 599 620 c 0,64,65
 EndSplineSet
-Ligature2: "'rlig' Ligature richiesta in Lineare B lookup 0-1" OLE plus xa
+Ligature2: "ccmp-linb-compound-1" OLE plus xa
 EndChar

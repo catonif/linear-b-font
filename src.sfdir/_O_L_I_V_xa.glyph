@@ -98,5 +98,5 @@ SplineSet
  80 757.000488281 80 757.000488281 101.5 788.5 c 128,-1,113
  122.999511719 820 122.999511719 820 166 820 c 0,0,1
 EndSplineSet
-Ligature2: "'rlig' Ligature richiesta in Lineare B lookup 0-1" OLIV plus xa
+Ligature2: "ccmp-linb-compound-1" OLIV plus xa
 EndChar

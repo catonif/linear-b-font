@@ -6,7 +6,7 @@ This is a fork of [Noto Sans Linear B](https://github.com/notofonts/linear-b), r
 
 ### Composed characters
 
-I encoded the composed characters using `rlig`, even though I assume some other rule should be used. Temporarily, the joiner character is the the plus sign `+`, following the scheme used at the English Wiktionary, so that it remains visibly contrastive even with other fonts. An upcoming Unicode proposal will hopefully clarify whether the zero-width joiner should be used or new control characters should be created. The characters currently supported are the following:
+I encoded the composed characters using `ccmp`. Temporarily, the joiner character is the the plus sign `+`, following the scheme used at the English Wiktionary, so that it remains visibly contrastive even with other fonts. An upcoming Unicode proposal will hopefully clarify whether the zero-width joiner should be used or new control characters should be created. The characters currently supported are the following:
 
 * OVIS (\*106) `U+10025` + *TA* (\*59) `U+10032`
 * SUS (\*108) `U+10042` + *SI* (\*41) `U+1002F`
@@ -39,7 +39,7 @@ In the tablets spacing is very evident, but in the font it is barely visible. I 
 
 ### Square brackets
 
-I increased the height of the square brackets, so that they are 86px above the signs just like they were already 86px below the sign. I also added glyphs for the double square brackets ⟦ `U+27E6` and ⟧ `U+27E7`, by joining two single square brackets together. I also set up the same `rlig` table as above so that a *[[ ]]* sequence would turn into *⟦ ⟧*.
+I increased the height of the square brackets, so that they are 86px above the signs just like they were already 86px below the sign. I also added glyphs for the double square brackets ⟦ `U+27E6` and ⟧ `U+27E7`, by joining two single square brackets together.
 
 ### Dot below
 

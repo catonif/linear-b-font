@@ -146,8 +146,6 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Ancora-1" 131 0 basechar 0
-AnchorPoint: "Ancora-0" 129 737 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -166,6 +164,4 @@ SplineSet
  85 536 l 1,15,-1
  173 536 l 1,12,-1
 EndSplineSet
-Substitution2: "Sostituzione singola lookup 2 subtable" dotlessi
-Substitution2: "Sostituzione singola lookup 1 subtable" dotlessi
 EndChar

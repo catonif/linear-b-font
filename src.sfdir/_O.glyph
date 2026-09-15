@@ -36,8 +36,6 @@ NPUSHB
  26
 CALL
 EndTTInstrs
-AnchorPoint: "Ancora-1" 392 0 basechar 0
-AnchorPoint: "Ancora-0" 391 714 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -64,6 +62,4 @@ SplineSet
  271 646 271 646 213.5 569.5 c 128,-1,27
  156 493 156 493 156 358 c 256,16,17
 EndSplineSet
-Kerns2: 338 -20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
-Substitution2: "Sostituzione singola lookup 7 subtable" ordmasculine
 EndChar

@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1484254337
-ModificationTime: 1789505479
+ModificationTime: 1789506126
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,103 +57,13 @@ OS2XHeight: 536
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000093.00000000
 OS2UnicodeRanges: 00000003.02000000.00000000.00000020
-Lookup: 4 0 1 "'rlig' Ligature richiesta in Lineare B lookup 0" { "'rlig' Ligature richiesta in Lineare B lookup 0-1"  } ['rlig' ('DFLT' <'dflt' > 'linb' <'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' Composizione/Decomposizione del glifo in Latino lookup 0" { "'ccmp' Composizione/Decomposizione del glifo in Latino lookup 0 contextual 0"  "'ccmp' Composizione/Decomposizione del glifo in Latino lookup 0 contextual 1"  } ['ccmp' ('latn' <'MOL ' 'ROM ' > ) ]
-Lookup: 1 0 0 "Sostituzione singola lookup 1" { "Sostituzione singola lookup 1 subtable"  } []
-Lookup: 1 0 0 "Sostituzione singola lookup 2" { "Sostituzione singola lookup 2 subtable"  } []
-Lookup: 4 0 0 "'ccmp' Composizione/Decomposizione del glifo in Latino lookup 3" { "'ccmp' Composizione/Decomposizione del glifo in Latino lookup 3 subtable"  } ['ccmp' ('latn' <'MOL ' 'ROM ' > ) ]
-Lookup: 1 0 0 "'locl' Forme localizzate in Latino lookup 4" { "'locl' Forme localizzate in Latino lookup 4 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
-Lookup: 1 0 0 "'locl' Forme localizzate in Latino lookup 5" { "'locl' Forme localizzate in Latino lookup 5 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
-Lookup: 6 0 0 "'ordn' Ordinali in Latino lookup 6" { "'ordn' Ordinali in Latino lookup 6 contextual 0"  "'ordn' Ordinali in Latino lookup 6 contextual 1"  } ['ordn' ('latn' <'MOL ' 'ROM ' > ) ]
-Lookup: 1 0 0 "Sostituzione singola lookup 7" { "Sostituzione singola lookup 7 subtable"  } []
-Lookup: 260 0 0 "'mark' Posizione della marca in Lineare B lookup 4" { "'mark' Posizione della marca in Lineare B lookup 4-1"  } ['mark' ('DFLT' <'dflt' > 'linb' <'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Crenatura orizzontale in Latino lookup 0" { "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"  "'kern' Crenatura orizzontale in Latino lookup 0 kerning class 1"  } ['kern' ('latn' <'MOL ' 'ROM ' > ) ]
-Lookup: 260 0 0 "'mark' Posizione della marca in Latino lookup 1" { "'mark' Posizione della marca in Latino lookup 1 subtable"  } ['mark' ('latn' <'MOL ' 'ROM ' > ) ]
-Lookup: 262 16 0 "'mkmk' Marca verso marca in Latino lookup 2" { "'mkmk' Marca verso marca in Latino lookup 2 subtable"  } ['mkmk' ('latn' <'MOL ' 'ROM ' > ) ]
-Lookup: 262 65552 0 "'mkmk' Marca verso marca in Latino lookup 3" { "'mkmk' Marca verso marca in Latino lookup 3 subtable"  } ['mkmk' ('latn' <'MOL ' 'ROM ' > ) ]
+Lookup: 4 0 1 "ccmp-linb-compound" { "ccmp-linb-compound-1"  } ['ccmp' ('DFLT' <'dflt' > 'linb' <'dflt' > ) ]
+Lookup: 260 0 0 "mark-dotbelow" { "mark-dotbelow-1"  } ['mark' ('DFLT' <'dflt' > 'linb' <'dflt' > ) ]
 MarkAttachClasses: 1
 MarkAttachSets: 2
 "MarkSet-0" 23 uni0326 uni0327 uni0328
 "MarkSet-1" 101 uni0308 gravecomb acutecomb uni030B uni0304 uni0307 uni0302 uni030C uni0306 uni030A tildecomb uni0312
 DEI: 91125
-KernClass2: 25+ 23 "'kern' Crenatura orizzontale in Latino lookup 0 kerning class 1"
- 165 ae b eth e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn
- 98 a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde h m n nacute uni0146 eng
- 95 D Eth Dcaron Dcroat O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q
- 77 v w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave
- 80 U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring
- 73 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde
- 68 quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle
- 39 V W Wacute Wcircumflex Wdieresis Wgrave
- 37 Y Yacute Ycircumflex Ydieresis Ygrave
- 30 L Lacute Lcaron uni013B Lslash
- 35 C Cacute Ccaron Ccedilla Cdotaccent
- 23 r racute rcaron uni0157
- 40 period comma quotesinglbase quotedblbase
- 26 Z Zacute Zcaron Zdotaccent
- 16 t tcaron uni021B
- 29 icircumflex idieresis imacron
- 20 hyphen endash emdash
- 16 T Tcaron uni021A
- 11 K uni0136 X
- 27 guillemotleft guilsinglleft
- 29 guillemotright guilsinglright
- 13 dcaron lcaron
- 7 P Thorn
- 1 x
- 1 f
- 209 agrave c cacute ccaron ccedilla cdotaccent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe q
- 142 C Cacute Ccaron Ccedilla Cdotaccent G Gbreve uni0122 Gdotaccent O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE Q
- 122 m n nacute uni0146 eng p r racute uni0157 u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring
- 72 v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis
- 69 a aacute abreve acircumflex adieresis amacron aogonek aring atilde ae
- 80 U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring
- 73 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde
- 43 b h k uni0137 l lacute lcaron uni013C thorn
- 39 V W Wacute Wcircumflex Wdieresis Wgrave
- 49 period ellipsis comma quotesinglbase quotedblbase
- 37 Y Yacute Ycircumflex Ydieresis Ygrave
- 26 z zacute zcaron zdotaccent
- 25 s sacute scedilla uni0219
- 45 quotedblright quoteright quotedbl quotesingle
- 27 g gbreve uni0123 gdotaccent
- 26 Z Zacute Zcaron Zdotaccent
- 20 hyphen endash emdash
- 34 parenright braceright bracketright
- 16 T Tcaron uni021A
- 27 guillemotleft guilsinglleft
- 29 guillemotright guilsinglright
- 2 AE
- 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -10 {} -40 {} -10 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} -60 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} -30 {} 0 {} -40 {} 0 {} -70 {} 0 {} 20 {} 0 {} 10 {} 0 {} -30 {} 0 {} -30 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} -80 {} 0 {} -20 {} -10 {} -10 {} 0 {} -20 {} 0 {} -40 {} 0 {} 0 {} -50 {} 0 {} 0 {} -10 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} -30 {} -10 {} 0 {} 0 {} -50 {} -20 {} -30 {} 0 {} -50 {} 0 {} -60 {} 0 {} 0 {} -60 {} 0 {} -20 {} -40 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} -80 {} -30 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} -20 {} 0 {} -30 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -160 {} 0 {} 0 {} 0 {} 40 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} -60 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} -70 {} -20 {} -50 {} -20 {} -80 {} 0 {} -70 {} 0 {} 0 {} -60 {} 0 {} -40 {} -60 {} 0 {} -70 {} 0 {} -40 {} 0 {} 20 {} -60 {} -30 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} 70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} -130 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} -20 {} 0 {} -30 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 60 {} 0 {} 0 {} 0 {} 40 {} 0 {} 0 {} 0 {} 0 {}
-ChainSub2: coverage "'ordn' Ordinali in Latino lookup 6 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 3 O o
-  BCoverage: 49 zero one two three four five six seven eight nine
- 1
-  SeqLookup: 0 "Sostituzione singola lookup 7"
-EndFPST
-ChainSub2: coverage "'ordn' Ordinali in Latino lookup 6 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 3 A a
-  BCoverage: 49 zero one two three four five six seven eight nine
- 1
-  SeqLookup: 0 "Sostituzione singola lookup 7"
-EndFPST
-ChainSub2: coverage "'ccmp' Composizione/Decomposizione del glifo in Latino lookup 0 contextual 1" 0 0 0 1
- 1 0 2
-  Coverage: 3 i j
-  FCoverage: 23 uni0326 uni0327 uni0328
-  FCoverage: 101 uni0308 gravecomb acutecomb uni030B uni0304 uni0307 uni0302 uni030C uni0306 uni030A tildecomb uni0312
- 1
-  SeqLookup: 0 "Sostituzione singola lookup 2"
-EndFPST
-ChainSub2: coverage "'ccmp' Composizione/Decomposizione del glifo in Latino lookup 0 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 3 i j
-  FCoverage: 101 uni0308 gravecomb acutecomb uni030B uni0304 uni0307 uni0302 uni030C uni0306 uni030A tildecomb uni0312
- 1
-  SeqLookup: 0 "Sostituzione singola lookup 1"
-EndFPST
 TtTable: prep
 SVTCA[y-axis]
 MPPEM
@@ -3931,6 +3841,7 @@ EndShort
 LangName: 1033 "" "" "" "2.002;GOOG;NotoSansLinearB-Regular" "" "Version 2.002; ttfautohint (v1.8.4.7-5d5b)" "" "Noto is a trademark of Google Inc." "Monotype Imaging Inc." "Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: Custom
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -3939,5 +3850,5 @@ FitToEm: 0
 WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "bottom" "'mark' Posizione della marca in Lineare B lookup 4-1" "Ancora-0" "'mark' Posizione della marca in Latino lookup 1 subtable" "Ancora-1" "'mark' Posizione della marca in Latino lookup 1 subtable" "Ancora-2" "'mkmk' Marca verso marca in Latino lookup 2 subtable" "Ancora-3" "'mkmk' Marca verso marca in Latino lookup 3 subtable"
+AnchorClass2: "bottom" "mark-dotbelow-1"
 EndSplineFont

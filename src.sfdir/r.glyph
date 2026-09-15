@@ -107,8 +107,6 @@ NPUSHB
  22
 CALL
 EndTTInstrs
-AnchorPoint: "Ancora-1" 126 0 basechar 0
-AnchorPoint: "Ancora-0" 240 536 basechar 0
 LayerCount: 2
 Fore
 SplineSet

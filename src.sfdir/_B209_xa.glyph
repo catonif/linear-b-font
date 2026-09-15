@@ -95,5 +95,5 @@ SplineSet
  218.5703125 521.087890625 l 1,84,-1
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'rlig' Ligature richiesta in Lineare B lookup 0-1" B209 plus xa
+Ligature2: "ccmp-linb-compound-1" B209 plus xa
 EndChar

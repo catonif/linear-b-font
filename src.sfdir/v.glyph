@@ -38,8 +38,6 @@ NPUSHB
  24
 CALL
 EndTTInstrs
-AnchorPoint: "Ancora-1" 252 0 basechar 0
-AnchorPoint: "Ancora-0" 252 536 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -59,5 +57,4 @@ SplineSet
  304 0 l 1,15,-1
  203 0 l 1,0,-1
 EndSplineSet
-Kerns2: 369 20 "'kern' Crenatura orizzontale in Latino lookup 0 per glyph data 0"
 EndChar
