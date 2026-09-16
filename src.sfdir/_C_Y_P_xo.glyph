@@ -1,7 +1,7 @@
 StartChar: CYP_xo
 Encoding: 404 -1 404
 Width: 712
-Flags: WO
+Flags: W
 AnchorPoint: "bottom" 367.5 -100 basechar 0
 LayerCount: 2
 Fore
