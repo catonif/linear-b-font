@@ -1,7 +1,7 @@
 StartChar: CYP_qa
 Encoding: 407 -1 407
 Width: 684
-Flags: WO
+Flags: W
 AnchorPoint: "bottom" 339 -100 basechar 0
 LayerCount: 2
 Fore
