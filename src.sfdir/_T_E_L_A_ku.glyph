@@ -1,7 +1,7 @@
 StartChar: TELA_ku
 Encoding: 410 -1 410
 Width: 775
-Flags: WO
+Flags: W
 AnchorPoint: "bottom" 387.5 -100 basechar 0
 LayerCount: 2
 Fore
