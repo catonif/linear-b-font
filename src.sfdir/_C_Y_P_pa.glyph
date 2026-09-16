@@ -1,7 +1,7 @@
 StartChar: CYP_pa
 Encoding: 406 -1 406
 Width: 583
-Flags: WO
+Flags: W
 AnchorPoint: "bottom" 291.5 -100 basechar 0
 LayerCount: 2
 Fore
