@@ -16,6 +16,7 @@ I encoded the composed characters using `ccmp`. Temporarily, the joiner characte
 * OLIV (\*122) `U+10090` + *A* (\*8) `U+10000`
 * OLIV (\*122) `U+10090` + *TI* (\*37) `U+10034`
 * AROM (\*123) `U+10091` + *KO* (\*70) `U+10012`
+* CYP (\*125) `U+10092` + *O* (\*61) `U+10003`
 * OLE (\*130) `U+10095` + *A* (\*8) `U+10000`
 * \*209<sup>VAS</sup> `U+100E8` + *A* (\*8) + `U+10000`
 * \*211<sup>VAS</sup> `U+100EA` + *PO* (\*11) `U+10021`
