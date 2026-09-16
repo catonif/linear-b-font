@@ -23,6 +23,8 @@ I encoded the composed characters using `ccmp`. Temporarily, the joiner characte
 * OLE (\*130) `U+10095` + *PA* (\*3) `U+1001E`
 * OLE (\*130) `U+10095` + *A* (\*8) `U+10000`
 * OLE (\*130) `U+10095` + *WE* (\*75) `U+10038`
+* TELA (\*159) `U+100A7` + *PA* (\*3) `U+1001E`
+* TELA (\*159) `U+100A7` + *KU* (\*81) `U+10013`
 * \*209<sup>VAS</sup> `U+100E8` + *A* (\*8) + `U+10000`
 * \*211<sup>VAS</sup> `U+100EA` + *PO* (\*11) `U+10021`
 
