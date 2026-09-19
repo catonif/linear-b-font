@@ -29,6 +29,9 @@ I encoded the composed characters using `ccmp`. Temporarily, the joiner characte
 * TELA (\*159) `U+100A7` + *ZO* (\*20) `U+1003F`
 * TELA (\*159) `U+100A7` + *PO* (\*50) `U+10022`
 * TELA (\*159) `U+100A7` + *KU* (\*81) `U+10013`
+* TUN (\*162) `U+100AA` + *RI* (\*53) `U+1002A`
+* TUN (\*162) `U+100AA` + *KI* (\*66) `U+10011`
+* TUN (\*162) `U+100AA` + *QE* (\*78) `U+10024`
 * \*209<sup>VAS</sup> `U+100E8` + *A* (\*8) + `U+10000`
 * \*211<sup>VAS</sup> `U+100EA` + *PO* (\*11) `U+10021`
 
