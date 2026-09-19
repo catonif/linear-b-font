@@ -1,5 +1,5 @@
 StartChar: EQU
-Encoding: 209 65667 96
+Encoding: 65667 65667 96
 Width: 1233
 GlyphClass: 1
 Flags: W

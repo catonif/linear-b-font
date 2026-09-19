@@ -3840,7 +3840,8 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "2.002;GOOG;NotoSansLinearB-Regular" "" "Version 2.002; ttfautohint (v1.8.4.7-5d5b)" "" "Noto is a trademark of Google Inc." "Monotype Imaging Inc." "Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: Custom
+Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
