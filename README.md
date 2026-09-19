@@ -63,9 +63,9 @@ for glyph in font.selection.byGlyphs:
 
 In the tablets spacing is very evident, but in the font it is barely visible. I increased the width of the space all the way to 500px.
 
-### Square brackets
+### Brackets
 
-I increased the height of the square brackets, so that they are 86px above the signs just like they were already 86px below the sign. I also added glyphs for the double square brackets ⟦ `U+27E6` and ⟧ `U+27E7`, by joining two single square brackets together.
+I increased the height of the square, round and curly brackets, so that they are 86px above the signs just like they were already 86px below the sign. I also added glyphs for the double square brackets ⟦ `U+27E6` and ⟧ `U+27E7`, by joining two single square brackets together, and added the angle brackets ⟨ `U+27E8` and ⟩ `U+27E9`.
 
 ### Dot below
 
