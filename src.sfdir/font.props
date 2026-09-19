@@ -4,14 +4,14 @@ FullName: Cato Sans Linear B Regular
 FamilyName: Cato Sans Linear B
 Weight: Regular
 Copyright: Copyright 2026 The Noto Project Authors (https://github.com/notofonts/linear-b) and Francesco Catoni
-Version: 0.100
+Version: 1.000
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x0000199a
+sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Sfondo" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1484254337
-ModificationTime: 1789825448
+ModificationTime: 1789826032
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3838,7 +3838,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "2.002;GOOG;NotoSansLinearB-Regular" "" "Version 2.002; ttfautohint (v1.8.4.7-5d5b)" "" "Noto is a trademark of Google Inc." "Monotype Imaging Inc." "Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 1.000" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
 Compacted: 1
