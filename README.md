@@ -32,8 +32,11 @@ I encoded the composed characters using `ccmp`. Temporarily, the joiner characte
 * TUN (\*162) `U+100AA` + *RI* (\*53) `U+1002A`
 * TUN (\*162) `U+100AA` + *KI* (\*66) `U+10011`
 * TUN (\*162) `U+100AA` + *QE* (\*78) `U+10024`
+* \*166 `U+100AE` + *WE* (\*75) `U+10038`
+* \*168 `U+100B0` + *SE* (\*9) `U+1002E`
 * \*209<sup>VAS</sup> `U+100E8` + *A* (\*8) + `U+10000`
 * \*211<sup>VAS</sup> `U+100EA` + *PO* (\*11) `U+10021`
+* ROTA (\*243) `U+100CF` + *TE* (\*4) `U+10033`
 
 ### Clarification about \*211<sup>VAS</sup>
 
